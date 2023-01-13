@@ -1,2 +1,2 @@
-# AzureResourceGroup-WebApp-SQL
-Sample for demoing CI/CD for an ARM template using Azure DevOps
+WebApp-SQL
+CI/CD using Azure DevOps
